@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![signet-marigold's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=signet-marigold&show_icons=true&theme=cobalt#gh-dark-mode-only)](https://github.com/signet-marigold#gh-dark-mode-only)
-[![signet-marigold's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=signet-marigold&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/signet-marigold#gh-light-mode-only)
+| <a href="https://github.com/signet-marigold#gh-dark-mode-only)"><img align="center" src="https://github-readme-stats.vercel.app/api?username=signet-marigold&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="signet-marigold's github stats" /></a><a href="https://github.com/signet-marigold#gh-light-mode-only)"><img align="center" src="https://github-readme-stats.vercel.app/api?username=signet-marigold&show_icons=true&include_all_commits=true&theme=default" alt="signet-marigold's github stats" /></a> | <a href="https://github.com/signet-marigold#gh-dark-mode-only)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=signet-marigold&layout=compact&theme=cobalt&hide_border=true" /></a><a href="https://github.com/signet-marigold#gh-light-mode-only)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=signet-marigold&layout=compact&theme=default" /></a> |
+| ------------- | ------------- |
